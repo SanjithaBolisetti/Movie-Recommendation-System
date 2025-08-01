@@ -161,3 +161,8 @@ This implementation demonstrates a hybrid approach:
 - *Deployment*: Streamlit for easy web deployment
 
 This approach combines the best of both frameworks while maintaining compatibility with existing TensorFlow datasets.
+
+## Output
+
+<img width="1055" height="707" alt="image" src="https://github.com/user-attachments/assets/bd221d5e-7b7a-4411-875a-73a8959a7815" />
+
